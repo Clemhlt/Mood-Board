@@ -1,0 +1,174 @@
+Body { 
+	font-family:'Loved by the king', cursive;
+	front-size: 18px;
+	color:rgb(30, 30, 30); 
+	background-color: rgb(243, 222, 238);
+	margin: 0px;
+}
+
+a {
+	text color: rgb(193, 103, 253);
+	font-size: 130%;
+}
+
+ 
+
+.banner { 
+		text-align:  center;
+		background-image: url(images/freestocks-Y9mWkERHYCU-unsplash.jpg);
+		background-position: center; 
+		background-size: cover;
+		padding: 100px 0px;
+	}
+
+
+.banner h1 { 
+	font-size: 50px;
+	}
+
+.banner p { 
+	font-size: 30px;
+	font-family: 'Loved by the king', cursive;
+	}
+
+.card-white img {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+.card-white {
+	background-color: rgb(245, 165, 103);
+	width: 220px;
+	padding: 24px;
+	text-align: center;
+	margin: 8px;
+	border-radius: 4px;
+	box-shadow: 0px 8px 14px rgb(0, 0, 0, 0, 1);
+}
+
+.card-grey img {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+.card-grey {
+	background-color: rgb(245, 165, 103);
+	width: 220px;
+	padding: 24px;
+	text-align: center;
+	margin: 8px;
+	border-radius: 4px;
+	box-shadow: 0px 8px 14px rgb(0, 0, 0, 0, 1);
+}
+
+.card-black img {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+.card-black {
+	background-color: rgb(245, 165, 103);
+	width: 220px;
+	padding: 24px;
+	text-align: center;
+	margin: 8px;
+	border-radius: 4px;
+	box-shadow: 0px 8px 14px rgb(0, 0, 0, 0, 4);
+}
+
+
+.container {
+	width: 900px;
+	margin: auto;
+}
+
+.containerbis {
+	width: 900px;
+	margin: auto;
+}
+
+.containerbisbis {
+	width: 900px;
+	margin: auto;
+}
+.Sad {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.Happy {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.Study {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.LOL {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.OK {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.Love {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.Party {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.relax {
+	text-decoration: none;
+	font-size: 200%;
+}
+
+.tired {
+	text-decoration: none;
+	font-size: 200%;
+}
+.fin {
+	font-size: 130%;
+	text-align: center;
+
+}
+.bouton-fin { 
+	color: white;
+	background-color: rgba(245, 165, 103, 0.8);
+	border-color: rgba(245, 165, 103, 0.8);
+	padding: 10px 25px;
+	margin-top: 20px;
+	border-radius: 2px;
+	font-size: 16px;
+	}
+
+
+.footer {
+	text-align: center;
+	background-color: rgba(263, 168, 103, 0.7);
+	padding: 11px;
+	margin: 16px;
+}
+
+.footer p {
+	font-size: 125%;
+	opacity: 100%;
+}
+
+.cards {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 16px;
+	opacity: 70%;
+}
